@@ -1,0 +1,11 @@
+Char 1
+Short 2
+Short_int 2
+Int 4
+Long 8
+Long_int 8
+Long_Long 8
+Long_Long_Int 8
+Float 4
+Double 8
+Long_Double 16
